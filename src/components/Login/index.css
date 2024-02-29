@@ -1,0 +1,10 @@
+checkbox-label {
+  color: green;
+}
+.login-button {
+  background-color: #0070c1;
+  height: 20px;
+  width: 45vw;
+  border-radius: 10px;
+  color: #ffffff;
+}
